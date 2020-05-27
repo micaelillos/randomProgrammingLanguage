@@ -1,0 +1,15 @@
+
+button{
+  font-size: 55px !important;
+  float: right;
+}
+
+i{
+width: auto;
+  height: auto;
+  font-size: 450px;
+}
+body{
+  background: linear-gradient(to right, lightblue 20%, lightpink, lightgoldenrodyellow );
+
+}
