@@ -28,7 +28,7 @@ Make sure you have node package manager NPM on your machine.
 => Start development server `npm start`
 
 ### Live Demo
-You can use the generator by clicking <a href="randev.micaelill.com"> Here </a>
+You can use the generator by clicking <a href="https://randev.micaelill.com"> Here </a>
 
 ##### Feel free to fork this repo to make it your own (choose your own languages / styles and ect')
 
